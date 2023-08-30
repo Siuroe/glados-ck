@@ -25,9 +25,9 @@
 
 添加名为——值分别为：  
 **SERVE**  ——**on/off** 你想你的serve酱开不开启通知  
-**SCKEY**  ——**sckey**  开的话填你的serve酱的sckey，不开就不填   
+**SCKEY**  ——**sckey**  开的话填你的serve酱的sckey，不开就不填 
 **COOKIE** —— **cookie** 弄上你账号的cookie  
-暂不支持多账号，懒得弄
+暂不支持多账号，懒
 ![](http://tu.yaohuo.me/imgs/2020/06/748bf9c0ca6143cd.png)
 
 ## 三、启用Action
